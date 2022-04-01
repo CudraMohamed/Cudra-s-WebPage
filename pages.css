@@ -88,11 +88,6 @@ span .fa-plus{
     font-size: 15px;
 
 }
-body{
-    background-color: rgb(19, 113, 141);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 .regform{
     padding: 5% 0%;
@@ -116,13 +111,12 @@ margin: 8px o;
 box-sizing: border-box;
 }
 .phone{
-width: 10%;
+width: 3%;
 padding: 10px 15px;
 margin: 8px;
 box-sizing: border-box;
 }
-.Contact{
-    width: 50%;
+.Contac{
 padding: 12px 20px;
 box-sizing: border-box;
 }

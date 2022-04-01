@@ -17,16 +17,17 @@
     /* margin-top -% use margin top to a negative and it will force the element to move */
     nav ul h1{
         margin: 10%;
-        border: solid 10px rgb(100, 212, 165);
+        border: solid 10px rgb(84, 154, 211);
         text-align: center;
+        padding: 10% 7% 10% 10%;
 }
 nav ul li ul li{
     border: solid 10px rgb(212, 100, 197);
     text-align: center;
-    margin: 50px 50px 50px 30px;
+    margin: 15% 15% 15% 10%;
 }
 nav ul li ul li ul li{
     border: solid 10px rgb(100, 121, 212);
     text-align: center;
-    margin: 20px 15px 15px 15px ;
+    margin: 20% 7% 20% 15% ;
 }

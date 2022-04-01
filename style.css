@@ -109,3 +109,18 @@ footer{
         height: 10%;
         font-style: normal;
 }
+.icons a{
+    margin: center;
+    text-decoration: none;
+    color: white;
+}
+.icons ion-icon{
+    color: wheat;
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+}
+.icons{
+    color: aqua;
+    transition: 0.3s ease;
+}
