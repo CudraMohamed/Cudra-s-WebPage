@@ -1,0 +1,32 @@
+    /* border-style: solid;
+    border-width: 2px;
+    border-color: green;
+    border-radius: 20px;
+   /* border: solid 2px green;*/
+
+   /*outline*/
+   /* text-align: center;
+   outline: solid 5px red;
+    padding: 20px;  */
+   /* padding: 0px 20px 10px 8px;  top right bottom left */
+   /* padding: 20px 10px;top & bottom,right & bottom*/
+
+    /*advisable to use % rather than px,it fits all the machines*/
+
+    /* margin: 30%; */
+    /* margin-top -% use margin top to a negative and it will force the element to move */
+    nav ul h1{
+        margin: 10%;
+        border: solid 10px rgb(100, 212, 165);
+        text-align: center;
+}
+nav ul li ul li{
+    border: solid 10px rgb(212, 100, 197);
+    text-align: center;
+    margin: 50px 50px 50px 30px;
+}
+nav ul li ul li ul li{
+    border: solid 10px rgb(100, 121, 212);
+    text-align: center;
+    margin: 20px 15px 15px 15px ;
+}
